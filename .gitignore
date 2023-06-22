@@ -1,0 +1,7 @@
+db.sqlite3
+account/__pycache__
+account/migrations/__pycache__
+account/migrations/__init__.py
+account/__init__.py
+bookmarks/__pycache__
+bookmarks/__init__.py
